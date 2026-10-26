@@ -2,77 +2,73 @@
 
 # Pryntly
 
-**Print at a local shop by scanning a QR code.**
+**Instant Counter Printing by QR Code · Zero Pen Drive · 100% Privacy Auto-Purge**
 
-No pen drive. No emailing your file to a stranger.
-Your document is deleted the moment it's printed.
+Print at verified campus counters and print shops without pen drives, queues, or emailing strangers.
+Your documents are processed ephemerally and deleted the second they are printed.
 
-[pryntly.in](https://pryntly.in)
+[**Launch Web App (pryntly.in)**](https://pryntly.in) · [**Merchant Portal (shop.pryntly.in)**](https://shop.pryntly.in)
 
 </div>
 
 ---
 
-## The problem
+## The Problem
 
-To print one page at a local shop today, you hand over a pen drive or email
-the file to the shopkeeper's personal Gmail. It's slow, it needs a queue at the
-counter, and your document sits on a stranger's machine indefinitely.
+To print a document at a local shop today, you hand over an unencrypted pen drive or email sensitive files to the shopkeeper's personal Gmail. It is slow, requires waiting in counter queues, and leaves your private PDFs and identity on a stranger's machine indefinitely.
 
-Shops, meanwhile, have no digital intake, no job history, and no way to be
-found by someone standing 200 metres away.
+Print shops, meanwhile, lack a digital intake system, face counter congestion, and have no way to be discovered by nearby students standing 100 metres away.
 
-## How it works
+---
 
-**For customers**
+## How It Works
 
-1. **Scan** the Pryntly code on the shop's counter
-2. **Upload** your PDF, Word file or photo
-3. **Choose** pages, colour, copies and paper size — the exact price updates as you do
-4. **Pay the shop directly** by UPI, with the amount already filled in
-5. **Show your code** and collect
+### For Students & Walk-In Customers
 
-**For print shops**
+1. **Scan** the QR code placed on the counter (or discover nearest counters via GPS on [pryntly.in](https://pryntly.in)).
+2. **Upload** your PDF, Word file, or photo directly from your phone.
+3. **Customize** pages, color, duplex, and copies — live pricing updates in real-time.
+4. **Pay Directly** via UPI with exact auto-filled amounts.
+5. **Collect** your prints in seconds from the counter.
 
-Jobs arrive on your dashboard the moment a customer sends one, even if the tab
-is closed. Confirm payment, print in one click, and the file deletes itself.
+### For Print Shops & Campus Merchants
 
-No software to install. Your first ₹5,000 of printing is free for 60 days.
+- Jobs arrive on the [Shop Dashboard](https://shop.pryntly.in) the instant a customer submits.
+- One-click printing via local thermal/laser print queues.
+- Customers pay you 100% directly via UPI — no commissions on your first ₹5,000 in volume.
+- Instant auto-purge: documents delete themselves immediately after printing.
 
-## What we don't keep
+---
 
-Pryntly is built so that there is very little to leak.
+## Ephemeral Privacy & Security Guarantee
 
-- **Your document is deleted** when the shop prints it — and automatically
-  within 15 minutes if they don't. No backups, no copies, no history.
-- **The shop never learns who you are.** They see a job code and your print
-  settings. Not your name, not your email. That's enforced in the database,
-  not just hidden in the interface.
-- **We never touch your money.** Payment goes straight from you to the shop
-  over UPI. We never see your card, bank or UPI credentials.
-- **No trackers.** No analytics scripts, no advertising pixels, no session
-  recording — a session recorder would capture other people's documents.
+Pryntly is engineered with a strict zero-retention policy:
 
-Read the full detail at [pryntly.in/privacy](https://pryntly.in/privacy).
+- **Instant Auto-Delete:** Documents are deleted from memory/storage the moment they are printed, and automatically purged within 24 hours if uncollected.
+- **No Identity Leakage:** The shop sees only your 4-letter job code and print configuration. Never your name, email, or Google account.
+- **Direct UPI Settlement:** Payments route directly between customer and shopkeeper.
+- **Zero Third-Party Trackers:** No third-party ad pixels, session recorders, or analytics cookies that could capture customer documents.
 
-## Security
+---
 
-Found something? Please email **security@pryntly.in** rather than opening a
-public issue. See [security.txt](https://pryntly.in/.well-known/security.txt).
+## Public & Regulatory Information
 
-We especially want to hear about anything that would let someone read a
-document they don't own, read another shop's jobs or payout details, or make a
-job print without payment.
+- [Terms of Service](https://pryntly.in/terms)
+- [Privacy Policy](https://pryntly.in/privacy)
+- [Refund & Cancellation Policy](https://pryntly.in/refund)
+- [Contact & Support](https://pryntly.in/contact)
+- [Security Vulnerability Disclosure (security.txt)](https://pryntly.in/.well-known/security.txt)
 
-## Run a print shop?
+---
 
-Take digital print jobs from a QR code on your counter, and keep 100% of what
-your customers pay you.
+## Run a Campus Print Counter?
 
-**[Sign your shop up →](https://shop.pryntly.in)**
+Sign up your shop to take digital print jobs from your counter QR code:
+
+👉 **[Register Your Shop on Pryntly](https://shop.pryntly.in)**
 
 ---
 
 <div align="center">
-<sub>Pryntly · Made in India</sub>
+<sub>© 2026 Pryntly Technologies · Mumbai & Pune, India · Made with precision</sub>
 </div>
